@@ -1,3 +1,1 @@
-Hola Mundo
-Mi nombre es Kevin Saquinga
-Carrera Software
+Este es una prueba del funcionamiento del sistema de control de versiones
